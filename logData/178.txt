@@ -1,0 +1,9 @@
+ec2d0c4b34f0cc306d61e3b0122307bbf72335c5
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/ControllableInputStream.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/SharedConstants.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/SimpleBufferedInput.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/SoftPool.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/StringUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/CharacterReader.java

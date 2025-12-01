@@ -1,0 +1,2 @@
+6fb07413051d22873429606c0fe1db66c0571c0a
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/AttrSelector.java

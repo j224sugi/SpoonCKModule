@@ -1,0 +1,3 @@
+dd45bb2b7a832850835bcb2a368dc3cca3851fe2
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Parser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilder.java

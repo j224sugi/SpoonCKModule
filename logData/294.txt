@@ -1,0 +1,4 @@
+32d247d6f4ec66b10c32be2fb6d2f2666c2399bf
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/CombiningEvaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/StructuralEvaluator.java

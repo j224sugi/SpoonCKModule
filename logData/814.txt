@@ -1,0 +1,6 @@
+31be24fb9312af091f7e751b6011b1ed5bb03795
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DescendableLinkedList.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java

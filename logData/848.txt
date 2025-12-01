@@ -1,0 +1,4 @@
+5236f0b3e64b7dcaa144eaeca187eadac3af936a
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java

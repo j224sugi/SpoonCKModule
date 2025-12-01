@@ -1,0 +1,2 @@
+982c993a1b886a807d7facc47dcb29dbed2961f3
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Elements.java

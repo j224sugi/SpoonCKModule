@@ -1,0 +1,5 @@
+a44e18aa3c1fcd25a68a5965f9490d8f7d026509
+C:\Users\sugii syuji\jsoup\38e20f43502027b897135e94e9119ae9341254ac
+C:\Users\sugii syuji\jsoup\e917ada8cc976397aa5c3e11492f108a35919e48
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Parser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/XmlTreeBuilder.java

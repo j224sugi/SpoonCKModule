@@ -1,0 +1,4 @@
+247c5d05f4529e55aa1fdbd333f99e323809b5e0
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/UncheckedIOException.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/CharacterReader.java

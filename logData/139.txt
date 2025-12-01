@@ -1,0 +1,2 @@
+a908dc9cc08fc0a2b0a1d7d9ff895cfdc1514958
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/examples/Wikipedia.java

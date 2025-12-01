@@ -1,0 +1,9 @@
+893706ad9b7310b84b02077e93bb311f1029407f
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/Validate.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Attribute.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/PseudoTextElement.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tag.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

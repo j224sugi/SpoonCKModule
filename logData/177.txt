@@ -1,0 +1,4 @@
+b731fd772bb4c313e6582e1bd3e6298cd8ccec19
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Entities.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

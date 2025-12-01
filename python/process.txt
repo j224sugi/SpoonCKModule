@@ -1,0 +1,12 @@
+1. gitプロジェクト内の全log情報を取得する
+⇒その中で，javaファイルが編集されたものを抽出する
+(getLog.pyで，log情報を最初から最後まで1,2,3..txtとしてlogDataに保存する．1行目にhash値とそれ以降に変更されたjavaファイル名)
+
+2. log情報を元にcheckoutし，その中に含まれる全javaファイルを抽出する．
+(getAllFile.pyで全ファイルを読み込むことができる)
+
+3.1 ck,spoonで解析する  
+(ExcuteCK.pyとExcuteSpoon.pyで実行する)
+3.2 ck,spoonを結合する                          (繰り返し)
+
+

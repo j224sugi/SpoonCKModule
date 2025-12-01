@@ -1,0 +1,4 @@
+f4d00c290325935186f75f1206d16397cc157ced
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/StringUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/LeafNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java

@@ -1,0 +1,5 @@
+1762412a28fa7b08ccf71d93fc4c98dc73086e03
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/W3CDom.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java

@@ -1,0 +1,6 @@
+55e5a4284e0b45f57380f062a933a746564b264a
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/Validate.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/FieldsAreNonnullByDefault.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/NonnullByDefault.java

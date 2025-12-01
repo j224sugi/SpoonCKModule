@@ -1,0 +1,2 @@
+7925168e9485e2ed82e4fd45b784e2a6470f31f9
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/CDataNode.java

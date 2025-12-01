@@ -1,0 +1,2 @@
+d4b2c36dadad3e644d1c1b5b85aa704b22c3b077
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java

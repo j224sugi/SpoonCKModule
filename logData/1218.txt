@@ -1,0 +1,2 @@
+62afbdf6a85fec75fde38d327928a180bc5bccb3
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Parser.java

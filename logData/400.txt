@@ -1,0 +1,4 @@
+2b6041f3ed7a0bbef64d33f53ba1b44043de2d74
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

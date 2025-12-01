@@ -1,0 +1,5 @@
+1f1f72d1e89821c630dcfc35e1a0a7f653cc877b
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/StreamParser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/XmlTreeBuilder.java

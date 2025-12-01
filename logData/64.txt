@@ -1,0 +1,5 @@
+9c437b4b961c6ed8a52ccb0a1be58de51f2e1e57
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TagSet.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/safety/Cleaner.java

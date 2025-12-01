@@ -1,0 +1,2 @@
+116866284b8068c817ad53b2b611568a7be25090
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java

@@ -1,0 +1,6 @@
+1123dd210a4b06b56986029386e5562aad63aa0d
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/AuthenticationHandler.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/RequestAuthenticator.java
+C:\Users\sugii syuji\jsoup\src/main/java9/org/jsoup/helper/RequestAuthHandler.java

@@ -1,0 +1,4 @@
+2c4e79b104c0ff32566ce247617d47c0b39cc2c7
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/UncheckedIOException.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java

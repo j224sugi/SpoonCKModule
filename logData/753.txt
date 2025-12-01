@@ -1,0 +1,4 @@
+1203bd459fe137e78a2a6dc2969f3c4995b726ce
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilder.java

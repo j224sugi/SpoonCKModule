@@ -1,0 +1,3 @@
+f3035cafbbd8830de75f641920f8e5dbf0070f7c
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Entities.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/EntitiesData.java

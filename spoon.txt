@@ -1,0 +1,36 @@
+launcher.addInputResource("C:\\Users\\sugii syuji\\jsoup\\src\\main\\java");⇒対象プロジェクト
+launcher.getEnvironment().setSourceClasspath(array);⇒jarファイル，クラスパス
+launcher.getEnvironment().setNoClasspath(false);⇒外部ファイル等から名前解決するか
+launcher.getEnvironment().setCommentEnabled(false);⇒コメントの扱い
+launcher.getEnvironment().setAutoImports(true);
+
+setNoClasspath(false)にすると名前解決ができなければエラーとなる．
+⇒jarファイルがないとエラーになる．
+setSourceClasspathをセットするだけで，出来る箇所の名前解決はしてくれる
+
+jsoupで試したところ，メソッドに関して
+jarファイル+setNoClasspath(false)⇒全メソッド名前解決完了
+jarファイル+setNoClasspath(true)⇒2つ名前解決できない（外部jarファイル依存のメソッド）
+jarファイルなし+setNoClasspath(false)⇒エラーで実行できない
+
+fastjson
+jarファイルなし　JavaParser:エラー数⇒361   Spoon:エラー数⇒81
+jarファイルあり　JavaParser:エラー数⇒201   Spoon:エラー数⇒2　(jarファイルの競合？を無くせば０になる)
+
+
+pythonのフォルダーで.venv\Scripts\activateを実行する
+pip install -r requirement.txtで仮想環境にpandasをインストール
+仮想環境の状態でpython SpoonCk.py [gitプロジェクト]　[出力フォルダー]　実行する
+deactivateで仮想環境終了
+
+interfaceの変更だと出力なし
+
+問題点：重複クラス（完全修飾名が同じ）が存在する時，エラーが出て計測することができない．
+　　　　エラー修正箇所をどうするか
+       gitの最新版にcheckoutする時，brach名の違いにより実行できない．
+
+
+重複クラスを無くす方法：
+・重複ファイル名の削除
+・フォルダを分割する
+・重複クラスのないプロジェクトを選ぶ

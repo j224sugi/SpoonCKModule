@@ -1,0 +1,6 @@
+a52e669ca8bc48265accd57d610c0258f7891841
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Comment.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tag.java

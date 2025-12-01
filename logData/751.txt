@@ -1,0 +1,5 @@
+ad4a1bee132ee7d1167ac795407345f2bc6a1db8
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tokeniser.java

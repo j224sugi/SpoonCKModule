@@ -1,0 +1,9 @@
+9329ae9ea40ebd2dca20413857dea293e83456f2
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/examples/HtmlToPlainText.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/W3CDom.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/safety/Cleaner.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/NodeFilter.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/NodeTraversor.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/NodeVisitor.java

@@ -1,0 +1,2 @@
+6dbe51b3f6d4db7a17fd103a5d2f138e5edafe19
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tag.java

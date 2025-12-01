@@ -1,0 +1,13 @@
+af61d0720599519828209b3b5f8ef06f61fe7768
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/SerializationException.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Attribute.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Attributes.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Comment.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/DataNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/DocumentType.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Entities.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/XmlDeclaration.java

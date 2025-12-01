@@ -1,0 +1,2 @@
+1028b37a1dfbc5dda7b18cbe692ab168c54fb505
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/LeafNode.java

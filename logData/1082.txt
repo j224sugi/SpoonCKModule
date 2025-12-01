@@ -1,0 +1,2 @@
+0d8ec3812c8a3617e3f4fb2c6325059ee695f1a7
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/examples/HtmlToPlainText.java

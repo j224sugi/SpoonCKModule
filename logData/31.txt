@@ -1,0 +1,2 @@
+b62e362d3945e86725c817101332b66277aff9e4
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/PseudoTextElement.java

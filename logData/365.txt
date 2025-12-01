@@ -1,0 +1,4 @@
+2b573de884aad36f3f6be3dc46e51ee06b7269f1
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/W3CDom.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/NodeUtils.java

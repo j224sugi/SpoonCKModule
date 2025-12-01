@@ -1,0 +1,4 @@
+c1924becd50885dfaf9bce062f86e04b10c688eb
+C:\Users\sugii syuji\jsoup\4ae8917dac1019fc08b091c13b66d846311ebdc4
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java

@@ -1,0 +1,6 @@
+0a4bd07adf2f483207c0c0820f020a2361d841c3
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/ParseSettings.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Token.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/XmlTreeBuilder.java

@@ -1,0 +1,4 @@
+3f67316f30614c43d14533ccc5246f7d964db70e
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Parser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tag.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokenQueue.java

@@ -1,0 +1,14 @@
+git log ⇒ logを入手する
+git log --stat ⇒ 変更されたファイルの一覧
+git log --oneline ⇒　logを一行で表示する
+git log --name-status ⇒　変更したファイルを表示
+git log --grep="fix"　⇒　fixが含まれるコミットログを取得
+git rev-list HEAD ⇒　HEADのハッシュを全取得する
+git rev-list --count HEAD ⇒　現在ブランチのコミット数を得る
+git diff --name-status [hash値] -- "*.java"　⇒　変更のあったjavaファイルを得る
+git show [hash値]:ファイル　> ファイル名　⇒　ファイルをファイル名として保存する
+grep [String]　*.txt　⇒　Stringを含む.txtを抽出する
+gh issue list -l bug -s closed ⇒　gitプロジェクトに含まれるissueの内closeされており、かつ、labelがbugの物を出力する
+
+プルリクエストのbugラベルから抽出する？？
+issueのバグを取得して、それを元に抽出する？？

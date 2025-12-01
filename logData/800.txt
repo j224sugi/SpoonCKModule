@@ -1,0 +1,2 @@
+f0f0e41e6c581de43dfaa98f5c2af52e43e42e62
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokeniserState.java

@@ -1,0 +1,5 @@
+a97672ad240f679f0071e046a119edb6d7dcbb1c
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Collector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/CombiningEvaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

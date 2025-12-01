@@ -1,0 +1,16 @@
+070887196158c084e39eb7499111f1e0d513ec38
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/Validate.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/Normalizer.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/LeafNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/StreamParser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Collector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/CombiningEvaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Elements.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/NodeEvaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Nodes.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/QueryParser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/StructuralEvaluator.java

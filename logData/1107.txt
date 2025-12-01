@@ -1,0 +1,6 @@
+13672ea6b50a631bbdc50a6b2bfb266089fe426f
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/DocumentType.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/ParseError.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokenQueue.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilderState.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Elements.java

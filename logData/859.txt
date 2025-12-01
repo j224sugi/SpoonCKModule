@@ -1,0 +1,7 @@
+63b778a5b41e75cb46a817fbdcc8e65db740a46c
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/FormElement.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/XmlDeclaration.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Parser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokenQueue.java

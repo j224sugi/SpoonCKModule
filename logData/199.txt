@@ -1,0 +1,2 @@
+047ac797fbc30e3487ce8583c74826237fbaab5a
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

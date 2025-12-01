@@ -1,0 +1,5 @@
+8c43a813f98dcd5362c33aff2378ef1cb12252b3
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/StringUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

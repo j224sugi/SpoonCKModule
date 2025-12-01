@@ -1,0 +1,4 @@
+3fb9295d4ce19e1d9bc06dd354dcfba981827abf
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/AndSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/NotSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/OrSelector.java

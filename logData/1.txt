@@ -1,0 +1,2 @@
+acafbcf3cb71ea0a04188c8f6257e3d395fa7c36
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Collector.java

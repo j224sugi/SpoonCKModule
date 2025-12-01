@@ -1,0 +1,2 @@
+46cff80ed79e2cb1fc1c791c44f4213dea69d5c0
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java

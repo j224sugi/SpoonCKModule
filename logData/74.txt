@@ -1,0 +1,7 @@
+1edd1431a42dcc092a91a5d91962e31f06a24c85
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/ChangeNotifyingArrayList.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Parser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tag.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokenQueue.java

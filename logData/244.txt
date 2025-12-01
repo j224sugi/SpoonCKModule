@@ -1,0 +1,14 @@
+2d517c769763e749ce0c3242b40be66c36af9918
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/SharedConstants.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Attribute.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Attributes.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Range.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/CharacterReader.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/ParseError.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Parser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Token.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tokeniser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokeniserState.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilder.java

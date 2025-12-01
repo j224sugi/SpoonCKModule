@@ -1,0 +1,4 @@
+3bd4d793ad7af94b3596fdf35be86758ff94696b
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/StringUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

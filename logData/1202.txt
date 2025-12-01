@@ -1,0 +1,4 @@
+2217137d9254f124e01aa935628a4076f7478995
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Evaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

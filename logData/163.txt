@@ -1,0 +1,4 @@
+51909b1af727eea21bc011633519e31aaff82048
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/NodeVisitor.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

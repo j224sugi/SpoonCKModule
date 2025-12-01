@@ -1,0 +1,8 @@
+4daca1dede2a1cb90ba7d15056ad5e317b823794
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/W3CDom.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/DocumentType.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tokeniser.java

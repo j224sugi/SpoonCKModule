@@ -1,0 +1,5 @@
+df617e986da7b2f839a15727b04ffecae71cc53e
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/Consumer.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

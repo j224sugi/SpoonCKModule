@@ -1,0 +1,6 @@
+e256bb7fc5979de256371bb324f1ca1330e38112
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Comment.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java

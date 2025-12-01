@@ -1,0 +1,8 @@
+6b67d05d883fdfe0f978d77d219e80324e0a223d
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/Validate.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/ValidationException.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/W3CDom.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/QueryParser.java

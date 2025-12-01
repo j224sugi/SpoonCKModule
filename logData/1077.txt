@@ -1,0 +1,4 @@
+1e84edbe208aab0c9330eadc50f9773d81d70cd6
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilderState.java

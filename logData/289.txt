@@ -1,0 +1,2 @@
+1e69577e358c75a85b769583f0cf860eedb18a5e
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/UrlBuilder.java

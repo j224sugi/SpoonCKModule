@@ -1,0 +1,4 @@
+f992e41708287a8251dc9d92ce9db874e0e8f076
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Elements.java

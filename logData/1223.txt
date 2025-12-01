@@ -1,0 +1,4 @@
+e8e29ca111772980970275662e0027fa695d9f27
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/StringUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java

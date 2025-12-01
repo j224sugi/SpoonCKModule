@@ -1,0 +1,3 @@
+01779db81c28933f4bffbfb2d530937a96a23b84
+C:\Users\sugii syuji\jsoup\84ffc4b73ca48ebe2423eac7a5f7b0aaa6c93aad
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java

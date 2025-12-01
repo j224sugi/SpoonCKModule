@@ -1,0 +1,4 @@
+91b5a56c63a9f8dca761b4cab959977fcd3308fd
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Attributes.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Token.java

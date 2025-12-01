@@ -1,0 +1,3 @@
+87b54a51777248440947c91ec43652b771c42dc6
+C:\Users\sugii syuji\jsoup\1791ef17ad6e0624a7b057b89439f7a33b3bbb82
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokenQueue.java

@@ -1,0 +1,4 @@
+a0d957cbdbf756bf5111b2272e10418ad0f35124
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Jsoup.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/safety/Cleaner.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/safety/Safelist.java

@@ -1,0 +1,3 @@
+21b01b258952fd6aeb55d061f98321e5b9fe93e0
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/StringUtil.java

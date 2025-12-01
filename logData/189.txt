@@ -1,0 +1,5 @@
+9ba6dc7a955ed23884e8e25f8d503c4fe144c27a
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Attribute.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Entities.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/XmlDeclaration.java

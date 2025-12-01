@@ -1,0 +1,4 @@
+adba4e80be13fb7a8d0ddfb31258b628bba61b99
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/QueryParser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

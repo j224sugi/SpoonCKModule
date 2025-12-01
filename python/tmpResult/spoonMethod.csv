@@ -1,0 +1,9 @@
+file,class,method,ATFD,ATLD,LAA,FDP
+C:\Users\sugii syuji\jsoup\src\main\java11\org\jsoup\helper\HttpClientExecutor.java,org.jsoup.helper.HttpClientExecutor,"StatusMessage/1[int]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java11\org\jsoup\helper\HttpClientExecutor.java,org.jsoup.helper.HttpClientExecutor,"client/0[]",14.0,0.0,0.0,3.0
+C:\Users\sugii syuji\jsoup\src\main\java11\org\jsoup\helper\HttpClientExecutor.java,org.jsoup.helper.HttpClientExecutor,"execute/0[]",11.0,5.0,0.3125,4.0
+C:\Users\sugii syuji\jsoup\src\main\java11\org\jsoup\helper\HttpClientExecutor.java,org.jsoup.helper.HttpClientExecutor,"requestBody/1[org.jsoup.helper.HttpConnection$Request]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java11\org\jsoup\helper\HttpClientExecutor.java,org.jsoup.helper.HttpClientExecutor,"responseBody/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java11\org\jsoup\helper\HttpClientExecutor.java,org.jsoup.helper.HttpClientExecutor,"safeClose/0[]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java11\org\jsoup\helper\HttpClientExecutor.java,org.jsoup.helper.HttpClientExecutor$ProxyWrap,"connectFailed/3[java.net.URI, java.net.SocketAddress, java.io.IOException]",2.0,0.0,0.0,2.0
+C:\Users\sugii syuji\jsoup\src\main\java11\org\jsoup\helper\HttpClientExecutor.java,org.jsoup.helper.HttpClientExecutor$ProxyWrap,"select/1[java.net.URI]",2.0,1.0,0.33333334,2.0

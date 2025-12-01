@@ -1,0 +1,6 @@
+77e6a1a900685c173afd5d88c9bc6123b568fc72
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/HttpStatusException.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Jsoup.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/UnsupportedMimeTypeException.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java

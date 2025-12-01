@@ -1,0 +1,4 @@
+bbb9cdcbaf45f6459fdb9059b2616c590d4de710
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/QueryParser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/StructuralEvaluator.java

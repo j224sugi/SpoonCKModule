@@ -1,0 +1,2 @@
+00f831840d845d5e221d44ba5d0dfac1a41fdbca
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/CombiningEvaluator.java

@@ -1,0 +1,16 @@
+9b8e81ab9b7c92d59bfa3977f9ee5cb78ee5b40c
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/HttpStatusException.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Jsoup.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/UnsupportedMimeTypeException.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/FormElement.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Collector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/CombiningEvaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Elements.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/NodeTraversor.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/QueryParser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/StructuralEvaluator.java

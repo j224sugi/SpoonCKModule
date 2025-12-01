@@ -1,0 +1,4 @@
+1e09df66f0302958d547037e7258913b3069f2b6
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/StringUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

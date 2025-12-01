@@ -1,0 +1,4 @@
+9675a92b41593244d6d3ecd99425aeb19e2a6219
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

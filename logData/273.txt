@@ -1,0 +1,3 @@
+4864af45affc8598dada9a8f970cbc04a793c460
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Token.java

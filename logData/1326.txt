@@ -1,0 +1,6 @@
+80c826dc46a5270826c411d3741bfab8c98eb42e
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Evaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Collector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

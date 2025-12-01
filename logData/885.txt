@@ -1,0 +1,3 @@
+567b90e4abb72144a15fb5eeef74d170ef425cf9
+C:\Users\sugii syuji\jsoup\85c835652321262a86d9d32eb20f87c231954bda
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Document.java

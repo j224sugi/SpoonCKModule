@@ -1,0 +1,7 @@
+0679bef07f1e29ae72ae54102d5af9a1f80d45d4
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/ParseSettings.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tag.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/XmlTreeBuilder.java

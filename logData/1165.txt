@@ -1,0 +1,13 @@
+b9f9860f43834de80d6acacad6dc76bd93140957
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/AndSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/AttrSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/BasicSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/ElementSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/ImmediateParentSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/ListSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/NextSiblingSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/NotSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/ParentSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/SelectMatch.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/Selector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/SequentSiblingSelector.java

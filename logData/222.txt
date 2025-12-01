@@ -1,0 +1,2 @@
+8a4bdaef7aeaaa62d4016b890cdca87b1a701b7f
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/DataNode.java

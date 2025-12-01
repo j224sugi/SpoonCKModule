@@ -1,0 +1,4 @@
+a90bae7928f9b038d1c142773b4a5011335bf8e8
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Comment.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

@@ -1,0 +1,2 @@
+863bad7886c1bbf84391f5e9e330f20a4daf8894
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java

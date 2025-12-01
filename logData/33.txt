@@ -1,0 +1,3 @@
+3b97e9616b96c80b8211a2fb7358c350b491c76e
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/SimpleStreamReader.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/CharacterReader.java

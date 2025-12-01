@@ -1,0 +1,4 @@
+dab13b2fd3288b44a3c83c3559991a97231dfcbc
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/SimpleBufferedInput.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/SimpleStreamReader.java

@@ -1,0 +1,3 @@
+a623db776696c0e03f68e849147f6a0c57063c02
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Attribute.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Token.java

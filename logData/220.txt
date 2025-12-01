@@ -1,0 +1,3 @@
+945b5218b271d8c8cc0df529e8b1fd0330971e41
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/QueryParser.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

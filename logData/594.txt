@@ -1,0 +1,8 @@
+fb50d9635874185fc050735057b8a7363cd53f3f
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/CDataNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Comment.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/DataNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/FormElement.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/LeafNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/XmlDeclaration.java

@@ -1,0 +1,2 @@
+532b79a61ae8191e2927c59300af68d18a54aa4e
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/safety/Cleaner.java

@@ -1,0 +1,6 @@
+2e20bc1bf30e1e6efbeeae67805d9d450d2f1d5b
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DescendableLinkedList.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/W3CDom.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokenQueue.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

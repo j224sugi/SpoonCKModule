@@ -1,0 +1,2 @@
+009013169754d4869f3a55c27a3443fc72d1d1f1
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java

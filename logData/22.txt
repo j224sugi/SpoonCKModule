@@ -1,0 +1,6 @@
+d551b3eb68244702ebbc2eb1b72d1d5882a7c066
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/RequestDispatch.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/UrlConnectionExecutor.java
+C:\Users\sugii syuji\jsoup\src/main/java11/org/jsoup/helper/HttpClientExecutor.java

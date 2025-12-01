@@ -1,0 +1,2 @@
+3941022e5c710392c6bd9f0fe8cce69f9caa08ef
+C:\Users\sugii syuji\jsoup\src/main/java11/org/jsoup/helper/HttpClientExecutor.java

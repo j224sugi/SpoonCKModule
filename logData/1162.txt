@@ -1,0 +1,2 @@
+7ea1e534d6d48da3a18953f323d9b275a57c4a09
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Evaluator.java

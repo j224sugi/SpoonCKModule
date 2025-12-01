@@ -1,0 +1,2 @@
+8c211dc36f541f385b3de99edda9779c3a81a4ed
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Jsoup.java

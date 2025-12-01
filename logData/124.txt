@@ -1,0 +1,2 @@
+76b391e367645d367a6cdd4b48b107bcc2ee9ae1
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/StructuralEvaluator.java

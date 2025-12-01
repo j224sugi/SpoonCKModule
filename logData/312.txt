@@ -1,0 +1,4 @@
+6e71f35c9e940ce32439bb8cbdea70579c9fe2b4
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/UrlBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/Validate.java

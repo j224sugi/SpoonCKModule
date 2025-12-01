@@ -1,0 +1,5 @@
+e30ed5d35cbcb92584d7fee8ae862f3929e443d8
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DescendableLinkedList.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Token.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TreeBuilderState.java

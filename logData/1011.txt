@@ -1,0 +1,6 @@
+deaf9f6a51b928dcad619fd8300ee3926345d1ea
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Elements.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/NodeTraversor.java

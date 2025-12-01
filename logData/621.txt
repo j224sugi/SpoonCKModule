@@ -1,0 +1,5 @@
+9e36f9e26cb8342ea54ad1379d6b1bfee718e90e
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/examples/HtmlToPlainText.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/CharacterReader.java

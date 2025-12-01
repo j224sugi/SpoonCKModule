@@ -1,0 +1,2 @@
+aa6e0d92728d67e242515d41c14188d5efe1c730
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Elements.java

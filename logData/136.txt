@@ -1,0 +1,12 @@
+18f87f1803f3481106e5291d4fd1a06cc53ea2c1
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/AuthenticationHandler.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/CookieUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/RequestAuthenticator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/RequestDispatch.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/RequestExecutor.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/UrlConnectionExecutor.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/SharedConstants.java
+C:\Users\sugii syuji\jsoup\src/main/java11/org/jsoup/helper/HttpClientExecutor.java
+C:\Users\sugii syuji\jsoup\src/main/java11/org/jsoup/helper/RequestAuthHandler.java
+C:\Users\sugii syuji\jsoup\src/main/java9/org/jsoup/helper/RequestAuthHandler.java

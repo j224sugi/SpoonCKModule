@@ -1,0 +1,2 @@
+67b48ddbcd3ed055d5130141235697cea24c69d1
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/DocumentType.java

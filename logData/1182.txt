@@ -1,0 +1,3 @@
+cacbbfb9604fc5ce565b3547f4a7de77c037013f
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java

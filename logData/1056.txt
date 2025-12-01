@@ -1,0 +1,2 @@
+002a4940935a7545ed94f1b776e4d7f6bf6c2525
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tokeniser.java

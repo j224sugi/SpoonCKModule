@@ -1,0 +1,2 @@
+a909600117d18af97cc432a15a1fa3c67bc100de
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/StringUtil.java

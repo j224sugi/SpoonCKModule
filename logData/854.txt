@@ -1,0 +1,2 @@
+4384e1692572ad8ea554eabd1f110a13191812c3
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java

@@ -1,0 +1,3 @@
+982ce8a3cea6158e22f351527d12853f0bd7050f
+C:\Users\sugii syuji\jsoup\397a0caeb374c55b8dcb58e09d0faebb6e017252
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

@@ -1,0 +1,3 @@
+9afeb6b7645deb78ff0b3d2804771b9238806353
+C:\Users\sugii syuji\jsoup\84ab3d3c2db81f0ef215ef1395d154a0e75c0040
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/StringUtil.java

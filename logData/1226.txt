@@ -1,0 +1,2 @@
+ff329d584a733c7fb58bb378a752541a7838fbd2
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Entities.java

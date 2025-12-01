@@ -1,0 +1,3 @@
+a62c7f37d4132f3180bfef3e0d872d8e3cf87b5e
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java
+C:\Users\sugii syuji\jsoup\src/main/java11/org/jsoup/helper/HttpClientExecutor.java

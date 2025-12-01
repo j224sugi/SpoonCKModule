@@ -1,0 +1,3 @@
+d0df41957bb9f1530c9cb6678e2b59fa8926ae81
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Attributes.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java

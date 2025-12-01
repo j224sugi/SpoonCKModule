@@ -1,0 +1,5 @@
+33deba9579c70e080db29d1efe31297451edf98c
+C:\Users\sugii syuji\jsoup\38049ce2808cafce3884c25c4613aaaff9f2d0d8
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/ChangeNotifyingArrayList.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

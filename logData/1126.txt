@@ -1,0 +1,2 @@
+c114eb0589d947dfe6f047c546380c3cfe413453
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java

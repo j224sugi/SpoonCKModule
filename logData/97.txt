@@ -1,0 +1,3 @@
+6681be4553ae9e4153fdabf006655b84dd161160
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Tag.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TagSet.java

@@ -1,0 +1,2 @@
+277949e7115059f6f0071e1b3418b6f6cbf48e48
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/selectors/AndSelector.java

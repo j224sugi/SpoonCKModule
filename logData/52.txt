@@ -1,0 +1,2 @@
+ec7fcd3b76af03f32f6b0a221acc66d7efb6d9be
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Printer.java

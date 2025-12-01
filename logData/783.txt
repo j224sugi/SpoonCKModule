@@ -1,0 +1,2 @@
+cd45173d0787948003ffc41bba0ffbd34c915900
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/DataUtil.java

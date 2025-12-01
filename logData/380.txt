@@ -1,0 +1,2 @@
+ccbd65f3bb10922b89f381c3141c11a10c68ee5c
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/ConstrainableInputStream.java

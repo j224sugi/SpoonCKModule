@@ -1,0 +1,3 @@
+86602ebe8827631d291d56705cfd61f5ef513e62
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/ParseSettings.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Token.java

@@ -1,0 +1,3 @@
+71b7ce59d7e505268dc39bf006fa0c2faf64b4f7
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

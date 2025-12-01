@@ -1,0 +1,2 @@
+07a3c08a7ddb06711c3d1b5b1126076a43efa6e1
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/CharacterReader.java

@@ -1,0 +1,6 @@
+a8b6982de98ff76ef254031d7152fff57f6bf941
+C:\Users\sugii syuji\jsoup\97c3cb4d63c5512e2b596fbe0de6f3709418e157
+C:\Users\sugii syuji\jsoup\3f39a5a48504b2a5cc9934b63f3e03420de1abc5
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Connection.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Jsoup.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/HttpConnection.java

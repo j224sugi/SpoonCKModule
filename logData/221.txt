@@ -1,0 +1,2 @@
+3375e1c24fcbb2b53819bf87460f3eb4932b1c78
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java

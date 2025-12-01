@@ -1,0 +1,3 @@
+0ef4b70b2acf47c1094aedbb9954324a2e84c05e
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/CharacterReader.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokeniserState.java

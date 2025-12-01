@@ -1,0 +1,3 @@
+abdf22714e557304d9f6782d30da9b7254ce017c
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Parser.java

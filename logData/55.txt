@@ -1,0 +1,2 @@
+6cf89b49d70d0ed561881c9654abee6efbcbb439
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

@@ -1,0 +1,2 @@
+170c25f964066982cc0ce7cb5d9084d4b0dc4227
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/ElementSelector.java

@@ -1,0 +1,4 @@
+8e9f869999566a968b7fea67ab4dac5b7fde33ef
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/SoftPool.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

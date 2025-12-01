@@ -1,0 +1,5 @@
+2bc420589478b3cb01398cd9eb233be25b73b7c0
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/ParserRuntimeException.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Position.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/Token.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokenStream.java

@@ -1,0 +1,4 @@
+5a570cf31e078c9b3865f93a37fbbde68c9799df
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/LeafNode.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Node.java

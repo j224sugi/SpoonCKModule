@@ -1,0 +1,2 @@
+049204c2d47eb26315b519de65c89b692f92230c
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/NodeTraversor.java

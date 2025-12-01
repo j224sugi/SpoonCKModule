@@ -1,0 +1,2 @@
+8ecb39eb4ec4e50126853ab05d54f7dd4f392de2
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/NodeVisitor.java

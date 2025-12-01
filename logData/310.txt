@@ -1,0 +1,3 @@
+0121311b1bd56cbbd29e9b291d42564d5135afa5
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/UrlBuilder.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/StringUtil.java

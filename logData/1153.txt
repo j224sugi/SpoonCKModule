@@ -1,0 +1,2 @@
+fbed2413bf243300e38be8903c7be49d5533e261
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/HasSelector.java

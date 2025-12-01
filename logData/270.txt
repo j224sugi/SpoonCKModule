@@ -1,0 +1,2 @@
+7a83ffee4641ca44816d113c3acf1d52722ef217
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/safety/Safelist.java

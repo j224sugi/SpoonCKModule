@@ -1,0 +1,8 @@
+b8cb55a51dd06a9e502399dada3abf904c0b6e7a
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/AndSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/ElementSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/NotSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/OrSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/ParentSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/PrevSiblingSelector.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/ng/PreviousSequentSiblingSelector.java

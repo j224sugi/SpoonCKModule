@@ -1,0 +1,2 @@
+7fb6d02a43c25ff60f992a702a5baf47c01f6b5b
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/helper/W3CDom.java

@@ -1,0 +1,5 @@
+ec9847624f75ee485247f1173cafa20eb4a385a8
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/Normalizer.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/internal/StringUtil.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Evaluator.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

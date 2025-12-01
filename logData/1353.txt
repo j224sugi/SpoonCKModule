@@ -1,0 +1,3 @@
+eb95cc7662dc5c438de8d9ef47ccf131bf7191a8
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/parser/TokenQueue.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/select/Selector.java

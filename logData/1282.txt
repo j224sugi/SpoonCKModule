@@ -1,0 +1,3 @@
+19f2541e9dad74a7e734225f3d1b598324a6ea49
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/Jsoup.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/safety/Cleaner.java

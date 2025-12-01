@@ -1,0 +1,3 @@
+f24175e49e4359631cba640f7effaf5327094619
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/Element.java
+C:\Users\sugii syuji\jsoup\src/main/java/org/jsoup/nodes/TextNode.java
