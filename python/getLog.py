@@ -14,7 +14,7 @@ def getLog(rootProject,LogDir):
     beLatestVersion = "git checkout master"
     subprocess.run(beLatestVersion.split(), cwd=gitProject, check=True)
 
-    getLog = "git log --pretty=format:%H --name-only -- *.java"
+    getLog = "git log --pretty=format:%H --name-only --diff-filter=ACMR -- *.java"
     hash = subprocess.run(
         getLog.split(), cwd=gitProject, capture_output=True, check=True, text=True
     )
@@ -23,7 +23,7 @@ def getLog(rootProject,LogDir):
     count=0
     for commit in blocks:
         commitLines = commit.split("\n")
-        filterList = [i for i in commitLines if "test" not in i and "info" not in i]
+        filterList = [i for i in commitLines if "test" not in i and "info" not in i and "example" not in i]
         if len(filterList) >= 2:
             count=count+len(filterList)-1
             k = k + 1
