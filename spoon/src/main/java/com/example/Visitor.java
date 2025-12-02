@@ -5,8 +5,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.IdentityHashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 import com.example.calculate.AccessToData;
@@ -29,7 +30,7 @@ public class Visitor extends CtScanner {
     List<String> nameOfClasses = new ArrayList<>();
     List<IAttribute> metricForMethod = new ArrayList<>();
     List<IAttribute> metricForClass = new ArrayList<>();
-    HashMap<CtClass, ClassMetrics> classesMetrics = new HashMap<>();
+    Map<CtClass, ClassMetrics> classesMetrics = new IdentityHashMap<>();
 
     public Visitor() {
         metricForMethod.add(new AccessToData());
@@ -112,7 +113,6 @@ public class Visitor extends CtScanner {
                     }
                     pwMethod.println();
                 }
-
                 pwClass.print(clazz.getPosition().getFile().getPath());
                 pwClass.print(",");
                 pwClass.print(clazz.getQualifiedName());

@@ -60,7 +60,7 @@ def makeNewDir(file):
     
 #projectFolder=sys.argv[1]
 #outPutFolder=sys.argv[2]
-Folders=[["C:\\Users\\sugii syuji\\jsoup","C:\\Users\\sugii syuji\\gitProjectMetrics\\jsoup"]]
+Folders=[["C:\\Users\\syuuj\\gitProject\\redisson","C:\\Users\\syuuj\\gitProjectResult\\redisson"]]
 
 for AnalyzeSet in Folders:
     ClassFlag=True
