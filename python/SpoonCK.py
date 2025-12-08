@@ -10,10 +10,10 @@ ClassFlag=True
 MethodFlag=True
 def editClass(Spoonfile, CKfile, outPutFolder, fileName):   #fileName=何個目のlogか
     global ClassFlag
-    df = pd.read_csv(CKfile)
+    df = pd.read_csv(CKfile,encoding="cp932")
     CK = df[["file", "class","type", "wmc", "tcc", "loc","totalMethodsQty"]]
     CK["class"] = CK["class"].str.replace("$Anonymous", "$")
-    spoon = pd.read_csv(Spoonfile)
+    spoon = pd.read_csv(Spoonfile,encoding="cp932")
     join = spoon.merge(CK, how="inner", on=["file", "class"])
     join["num"]=fileName
 
@@ -34,9 +34,9 @@ def editClass(Spoonfile, CKfile, outPutFolder, fileName):   #fileName=何個目�
 
 def editMethod(SpoonFile, CKFile, outPutFolder, fileName):
     global MethodFlag
-    df = pd.read_csv(CKFile)
+    df = pd.read_csv(CKFile,encoding="cp932")
     CK = df[["file", "class", "method", "wmc", "loc"]]
-    spoon = pd.read_csv(SpoonFile)
+    spoon = pd.read_csv(SpoonFile,encoding="cp932")
     join = spoon.merge(CK, how="inner", on=["file", "class", "method"])
     join["num"]=fileName
     join.to_csv(
@@ -60,7 +60,7 @@ def makeNewDir(file):
     
 #projectFolder=sys.argv[1]
 #outPutFolder=sys.argv[2]
-Folders=[["C:\\Users\\syuuj\\gitProject\\redisson","C:\\Users\\syuuj\\gitProjectResult\\redisson"],["C:\\Users\\syuuj\\gitProject\\guava","C:\\Users\\syuuj\\gitProjectResult\\guava"]]
+Folders=[["C:\\Users\\syuuj\\gitProject\\guava","C:\\Users\\syuuj\\1204\\guava"],["C:\\Users\\syuuj\\gitProject\\mybatis-3","C:\\Users\\syuuj\\1204\\mybatis"],["C:\\Users\\syuuj\\gitProject\\redisson","C:\\Users\\syuuj\\1204\\redisson"]]
 
 for AnalyzeSet in Folders:
     ClassFlag=True

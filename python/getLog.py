@@ -23,7 +23,7 @@ def getLog(rootProject,LogDir):
     count=0
     for commit in blocks:
         commitLines = commit.split("\n")
-        filterList = [i for i in commitLines if "test" not in i and "info" not in i and "example" not in i]
+        filterList = [i for i in commitLines if "test" not in i and "info" not in i and "example" not in i and "exception" in i and "Test" not in i and "Example" not in i and "Exception" not in i]
         if len(filterList) >= 2:
             count=count+len(filterList)-1
             k = k + 1
